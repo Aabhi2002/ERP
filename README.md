@@ -8,7 +8,7 @@ A complete **College Management System** built using the **MERN Stack**.
 
 ### Clone the project:
 ```sh
-git clone https://github.com/your-username/College-ERP.git
+git clone https://github.com/Aabhi2002/College-ERP.git
 ```
 
 ### Go to the project directory:
