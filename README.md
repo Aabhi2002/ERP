@@ -77,8 +77,8 @@ npm run start
 
 ## 🔗 Live Links
 
-- 📌 **Client (Main Dashboard):** [🚀 College ERP](#)
-- 📌 **Video Call:** [🎥 Live Video Call](#)
+- 📌 **Client (Main Dashboard):** [🚀 College ERP](https://erp-kappa-blush.vercel.app/)
+- 📌 **Video Call:** [🎥 Live Video Call]( https://sunny-duckanoo-9006ed.netlify.app/)
 - 📌 **Quiz:** [📝 Take a Quiz](https://sms-quiz.netlify.app/)
 - 📌 **Server (Backend):** [🌐 API Server](https://ill-blue-wildebeest-kilt.cyclic.app)
 
