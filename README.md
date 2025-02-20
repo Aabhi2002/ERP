@@ -33,7 +33,7 @@ npm run start
 | Role    | Username     | Password |
 |---------|-------------|----------|
 | **Admin**  | ADM202501001 | 123      |
-| **Faculty** | FAC202501001 | 123      |
+| **Faculty** |FAC202501000 | 123      |
 | **Student** | STU202501000 | 123      |
 
 ---
